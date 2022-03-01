@@ -50,3 +50,14 @@ footer {
     font-size: medium;
     margin-top: 1.5rem;
 }
+
+
+@media screen and (min-width: 480px) {
+    .prev {
+        left: 10vh;
+    }
+
+    .next {
+        right: 10vh;
+    }
+}
